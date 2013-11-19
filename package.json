@@ -1,6 +1,6 @@
 {
   "name": "express-abstracted-authentication-saml2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "SAML2 strategy for express-abstracted-authentication",
   "main": "index.js",
   "repository": {
