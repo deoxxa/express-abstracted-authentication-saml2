@@ -1,0 +1,18 @@
+{
+  "name": "express-abstracted-authentication-saml2",
+  "version": "0.0.0",
+  "description": "SAML2 strategy for express-abstracted-authentication",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deoxxa/express-abstracted-authentication-saml2.git"
+  },
+  "author": "Conrad Pankoff <deoxxa@fknsrs.biz> (http://www.fknsrs.biz/)",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/deoxxa/express-abstracted-authentication-saml2/issues"
+  },
+  "peerDependencies": {
+    "express": "^3.0.0"
+  }
+}
