@@ -14,5 +14,8 @@
   },
   "peerDependencies": {
     "express": "^3.0.0"
+  },
+  "dependencies": {
+    "passport-saml2": "~0.2.2"
   }
 }
